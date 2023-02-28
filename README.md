@@ -8,7 +8,7 @@ The truth is, not all offsets are equal. The work we do to source, research, eva
 
 We evaluate offsets based not only on the integrity of their carbon reduction or removal (verifiability, enforceability, additionality, permanence, transparency), but also on their potential to transform our world into a more just and sustainable one (efficiency, scalability, catalytic potential, ecosystem benefits, community benefits). 
 
-Read more about our team and expert advisors here: https://www.thecommons.earth/about-us
+Read more about our team and expert advisors here: https://www.thecommons.earth/about-us.
 
 In this repo, you'll find:
 * Detailed provider evaluations for Fall 2021
